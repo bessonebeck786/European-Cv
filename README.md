@@ -202,4 +202,4 @@ This repository serves as the official landing page for European CV. The softwar
 **Get the most recent version of European CV today!**
 
 ---
-**Last updated:** 2026-11-12 09:08:19 UTC
+**Last updated:** 2026-11-12 17:51:30 UTC
